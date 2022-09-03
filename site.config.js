@@ -1,14 +1,14 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '270e058220df4cc8879bf7563cf813b3',
+  rootNotionPageId: '5e81650e3291475fbc13be80cf8e0ec2',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '阿亮的自述',
-  domain: 'https://frosted-hosta-7e3.notion.site/Blog-Post-270e058220df4cc8879bf7563cf813b3',
+  name: 'PPT制作思路',
+  domain: 'https://sherves.notion.site/5e81650e3291475fbc13be80cf8e0ec2',
   author: 'Sherves',
 
   // open graph metadata (optional)
